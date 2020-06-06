@@ -19,6 +19,10 @@ default: &default
   # Extract and emit a css file
   extract_css: false
 
+  node:
+    fs: 'empty'
+    WebAR: 'empty'
+
   static_assets_extensions:
     - .jpg
     - .jpeg

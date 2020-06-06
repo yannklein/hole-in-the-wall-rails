@@ -1,2 +1,13 @@
-<h1>Pages#home</h1>
-<p>Find me in app/views/pages/home.html.erb</p>
+<div class="home-container">
+  <h1>Watch Toronto through an AR hole in the whole</h1>
+  <div class="home-marker">
+    <p>Put this marker on a Wall</p>
+    <%= image_tag @marker_png %>
+    <p>
+      Scan it with your phone or access the Augmented world from <%= link_to  "here", live_path %>.
+    </p>
+  </div>
+  <p class="home-footer">
+    More AR and other projects on <%= link_to  "Yann Klein's portfolio", "https://www.yannklein.me" %>
+  </p>
+</div>

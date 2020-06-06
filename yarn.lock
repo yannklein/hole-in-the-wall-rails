@@ -6962,6 +6962,11 @@ svgo@^1.0.0:
     unquote "~1.1.1"
     util.promisify "~1.0.0"
 
+sweetalert2@^9.14.0:
+  version "9.14.0"
+  resolved "https://registry.yarnpkg.com/sweetalert2/-/sweetalert2-9.14.0.tgz#2ae59c417745ae9360e47d7745a39be3ecbee1a2"
+  integrity sha512-NXxaR5ZsT9JQ+pEH0lQPa6fzFr7Uqx2VNI3dcPBShwTngQkVLXzEJYB0XjWAx/oBLAIPyHlc/tc3bkojJ2HYzg==
+
 tapable@^1.0.0, tapable@^1.1.3:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/tapable/-/tapable-1.1.3.tgz#a1fccc06b58db61fd7a45da2da44f5f3a3e67ba2"
@@ -7014,6 +7019,11 @@ terser@^4.1.2, terser@^4.6.12:
     commander "^2.20.0"
     source-map "~0.6.1"
     source-map-support "~0.5.12"
+
+three@^0.117.1:
+  version "0.117.1"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.117.1.tgz#a49bcb1a6ddea2f250003e42585dc3e78e92b9d3"
+  integrity sha512-t4zeJhlNzUIj9+ub0l6nICVimSuRTZJOqvk3Rmlu+YGdTOJ49Wna8p7aumpkXJakJfITiybfpYE1XN1o1Z34UQ==
 
 through2@^2.0.0:
   version "2.0.5"

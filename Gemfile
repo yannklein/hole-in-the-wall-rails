@@ -32,6 +32,11 @@ gem 'autoprefixer-rails'
 gem 'font-awesome-sass'
 gem 'simple_form'
 
+gem 'barby',  '~> 0.6.2'
+gem 'rqrcode','~> 0.4.2'
+gem 'chunky_png'
+gem 'rmagick'
+
 group :development, :test do
   gem 'pry-byebug'
   gem 'pry-rails'

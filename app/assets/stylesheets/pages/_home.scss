@@ -1,1 +1,30 @@
 // Specific CSS for your home-page
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+  padding-top: 24px;
+}
+
+.home-container p {
+  margin: 0;
+}
+
+.home-marker {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.home-marker img {
+  height: 400px;
+  width: 400px;
+  margin: 16px;
+}
+
+.home-footer {
+  color: rgb(80,80,80);
+  font-style: italic;
+}
