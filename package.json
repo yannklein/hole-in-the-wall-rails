@@ -10,7 +10,7 @@
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
     "sweetalert2": "^9.14.0",
-    "three": "^0.117.1",
+    "three": "^0.125.0",
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",
